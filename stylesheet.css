@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnaSlabSerif-Light.woff2') format('woff2'),
+        url('HapnaSlabSerif-Light.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnaSlabSerif-Regular.woff2') format('woff2'),
+        url('HapnaSlabSerif-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnabSerif-Regular5.woff2') format('woff2'),
+        url('HapnabSerif-Regular5.woff') format('woff');
+    font-weight: 400;
+    /* peso normal */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnabSerif-Regular4.woff2') format('woff2'),
+        url('HapnabSerif-Regular4.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnabSerif-Regular2.woff2') format('woff2'),
+        url('HapnabSerif-Regular2.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hapna Serif';
+    src: url('HapnabSerif-Regular3.woff2') format('woff2'),
+        url('HapnabSerif-Regular3.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RDR Lino';
+    src: url('RDRLino-Regular.woff2') format('woff2'),
+        url('RDRLino-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
